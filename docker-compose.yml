@@ -1,0 +1,5 @@
+# Here, 'testContainer' is the container name
+# and 'image' specifies which image the container should be created with
+
+testContainer:
+    image: hello-world
